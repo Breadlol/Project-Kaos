@@ -1,0 +1,14 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="BossProjectileTexture"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Parent=Material'"/Game/FPWeapon/Materials/BaseMaterial.BaseMaterial"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Metallic"),ExpressionGUID=52A42084427DCE235D8D97A22CC11B32)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Roughness"),ParameterValue=0.250000,ExpressionGUID=D1F28C944FDD5D2EED4B209F552ACAD8)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="DiffuseColor"),ParameterValue=(R=0.960784,G=0.584314,B=0.109804,A=1.000000),ExpressionGUID=8C3FA8064A945189CE3DC2A58CA15EB5)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_3"'
+   LightingGuid=536D65EC433D8A91914CACB8DB066B43
+End Object
